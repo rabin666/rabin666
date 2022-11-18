@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rabin Ghimire 👋
 
-//[Click here to go to my personal website!](https://rabin666.github.io/)
+<-- [Click here to go to my personal website!](https://rabin666.github.io/) -->
 
 [![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin666&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/rabin666/github-readme-stats)
 
