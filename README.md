@@ -2,7 +2,7 @@
 
 <!-- [Click here to go to my personal website!](https://rabin666.github.io/) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin666&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabin666&show_icons=true&&count_private=true&&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabin666&langs_count=10&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
